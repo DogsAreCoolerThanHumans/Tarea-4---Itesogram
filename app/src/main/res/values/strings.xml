@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">t4</string>
+    <string name="usuario_correo">Usuario/Correo</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="iniciar_sesi_n">Iniciar Sesión</string>
+    <string name="olvidaste_tus_datos_de_inicio_de_sesi_n">¿Olvidaste tus datos de inicio de sesión?</string>
+    <string name="obten_ayuda">Obten ayuda</string>
+    <string name="no_tienes_cuenta">¿No tienes cuenta?</string>
+    <string name="reg_strate">Regístrate</string>
+    <string name="guardar_en_parse">Guardar en Parse</string>
+    <string name="valor_en_parse">Valor en Parse</string>
+    <string name="obtener_valor">Obtener valor</string>
+    <string name="no_se_ha_pedido_el_valor_parse">No se ha pedido el valor parse</string>
+</resources>
